@@ -1,6 +1,6 @@
 # Week 8
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 08-31 to 09-04
 
 ## Goals
 

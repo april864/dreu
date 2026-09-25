@@ -1,6 +1,6 @@
 # Week 10
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 09-14 to 09-18
 
 ## Goals
 
